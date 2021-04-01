@@ -24,6 +24,7 @@ namespace Lessons
         {
             Console.WriteLine("qwe");
             Display2("asd");
+            Console.WriteLine("rty");
             Console.ReadLine();
 
         }
