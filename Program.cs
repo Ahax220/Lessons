@@ -34,7 +34,7 @@ namespace Lessons
 
         public static void Display2(string str)
         {
-            Console.WriteLine("строка - " + str);
+            Console.WriteLine("эта строка исправлена - " + str);
 
         }
     }
