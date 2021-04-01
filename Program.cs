@@ -23,7 +23,9 @@ namespace Lessons
         static void Main(string[] args)
         {
             Console.WriteLine("qwe");
-            Console.WriteLine();
+            Display2("asd");
+            Console.ReadLine();
+
         }
 
         public override void Display(int a, string name)
