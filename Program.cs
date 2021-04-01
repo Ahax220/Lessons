@@ -11,14 +11,14 @@ namespace Lessons
     {
         int a;
         public abstract void Display(int a, string name);
-        
+
     }
-    
+
 
     class Program : Person
     {
 
-        
+
 
         static void Main(string[] args)
         {
@@ -29,7 +29,13 @@ namespace Lessons
         public override void Display(int a, string name)
         {
             Console.WriteLine(a + name);
-            
+
+        }
+
+        public static void Display2(string str)
+        {
+            Console.WriteLine(str);
+
         }
     }
 }
