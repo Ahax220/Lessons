@@ -22,7 +22,7 @@ namespace Lessons
 
         static void Main(string[] args)
         {
-            Console.WriteLine("asd");
+            Console.WriteLine("qwe");
             Console.WriteLine();
         }
 
